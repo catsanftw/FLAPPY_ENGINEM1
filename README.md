@@ -30,6 +30,6 @@ Controls
 Press Space to make the bird jump
 Esc to quit the game
 License
-Apache License 
+GPL-2.0 license
 
 Make sure to adjust any specific details based on your project’s requirements!
